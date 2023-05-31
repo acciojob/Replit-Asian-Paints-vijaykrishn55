@@ -13,9 +13,9 @@
     font-size: 30px;
     text-align: center;
   }
-#3.grid-container{
+#3.grid-item{
 	background-color:rgb(255, 0, 0);
 }
-#2.grid-container #5.grid-container{
+#2.grid-item #5.grid-item{
 	background-color: rgba(0, 0, 0, 0);
 }
