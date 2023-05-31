@@ -7,12 +7,15 @@
   }
   
   .grid-item {
-    background-color: rgb(255, 0, 0);
+    
     border: 1px solid rgba(0, 0, 0, 0.698);
     padding: 20px;
     font-size: 30px;
     text-align: center;
   }
-/* #3.grid-container{
+#3.grid-container{
 	background-color:rgb(255, 0, 0);
-} */
+}
+#2.grid-container #5.grid-container{
+	background-color: rgba(0, 0, 0, 0);
+}
