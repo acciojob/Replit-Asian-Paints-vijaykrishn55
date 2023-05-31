@@ -13,7 +13,7 @@
     font-size: 30px;
     text-align: center;
   }
-#3.grid-item{
+div #3.grid-item{
 	background-color:rgb(255, 0, 0);
 }
 #2.grid-item #5.grid-item{
